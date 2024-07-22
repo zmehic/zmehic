@@ -15,7 +15,7 @@ My name is Zaim and currently, I'm a third year student at the Faculty of Inform
 🔭 I'm highly motivated to explore new technologies, as well as to master the ones mentioned above. 
 
 ## 💻 My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmehic2&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmehic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <!--
