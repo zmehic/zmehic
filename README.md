@@ -11,6 +11,8 @@ My name is Zaim and currently, I'm a third year student at the Faculty of Inform
 - Angular
 - ASP.NET
 - MS SQL
+- Flutter
+- Ruby on Rails
 
 🔭 I'm highly motivated to explore new technologies, as well as to master the ones mentioned above. 
 
