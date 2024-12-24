@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/zmehic?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=zmehice&style=flat-square&color=brightgreen)
 ## About me
-My name is Zaim and currently, I'm a third year student at the Faculty of Information Technologies 🖥️ in Mostar, 🇧🇦. 
+My name is Zaim and currently, I'm a fourth year student at the Faculty of Information Technologies 🖥️ in Mostar, 🇧🇦. 
 
 👷I have some hands-on experience with: 
 - Windows Forms
